@@ -1,0 +1,95 @@
+.homepage-wrapper {
+  width: 100%;
+  overflow-x: hidden;
+}
+.header-banner-vector1 img
+{
+    height: 300px; margin-top: -6%;
+}
+.parallax-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px 10%;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  transition: background 0.3s ease;
+}
+
+.hero-section {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://via.placeholder.com/1600x800') no-repeat center center;
+  background-size: cover;
+  color: #fff;
+  flex-direction: column;
+  text-align: center;
+}
+
+.hero-image {
+  max-width: 80%;
+  margin-top: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+.zigzag {
+  gap: 40px;
+}
+
+.zigzag.right {
+  flex-direction: row;
+  
+}
+.fold-init
+{
+  padding: 80px 10%;
+}
+section.parallax-section.zigzag.left {
+   background-position: right;
+    background-image: url('../src/assets/bg-zigzag.jpg');
+        background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #faa42191;
+}
+h2
+{
+  color: #ff7d03 !important;
+}
+.zigzag.left h2,
+.zigzag.left p {
+color: #fff !important;
+}
+.image-box-shadow
+{
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 30px;
+    border-radius: 30px 0;
+}
+
+.text-content {
+  flex: 1;
+  max-width: 50%;
+}
+
+.img-content {
+  flex: 1;
+  max-width: 45%;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+.header-banner-vector1 {
+    text-align: center;
+    height: auto;
+}
+.center {
+  flex-direction: column;
+  text-align: center;
+  background-color: #fff;
+}
+
+.center-text {
+  max-width: 80%;
+  margin: 0 auto;
+}
