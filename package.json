@@ -46,7 +46,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://github.com/ranjit-gurav-patil/edutrack",
+  "homepage": "https://ranjit-gurav-patil.github.io/edutrack",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "keywords": [],
