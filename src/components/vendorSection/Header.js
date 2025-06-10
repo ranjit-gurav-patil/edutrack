@@ -5,7 +5,8 @@ import logo from '../../assets/edutrack365.png';  // Adjust path if needed
 const Header = () => {
   return (
     <div className="edutrack-header d-flex justify-content-center">
-    <nav id="navbar" className="shadow px-4 py-2 edutrack_bar custom-rounded navbar navbar-expand-lg navbar-light bg-white">
+    <nav id="navbar" className="theme-bg-navbar shadow px-4 py-2 edutrack_bar custom-rounded navbar navbar-expand-lg navbar-light bg-white">
+      
       <div className="container">
         <Link className="navbar-brand d-flex align-items-center" to="/home">
           <img 
