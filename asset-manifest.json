@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/edutrack/static/css/main.e7eb92aa.css",
-    "main.js": "/edutrack/static/js/main.707fe8fe.js",
+    "main.css": "/edutrack/static/css/main.7fec06c9.css",
+    "main.js": "/edutrack/static/js/main.5257c15b.js",
     "static/js/453.3e457e73.chunk.js": "/edutrack/static/js/453.3e457e73.chunk.js",
+    "static/media/edutrek-par.jpg": "/edutrack/static/media/edutrek-par.cca61c97fd31045d5d94.jpg",
     "static/media/fa-solid-900.ttf": "/edutrack/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/edutrack/static/media/fa-brands-400.1815e00441357e01619e.ttf",
-    "static/media/edutrackbg.jpg": "/edutrack/static/media/edutrackbg.5eccad91a3dee5daf09e.jpg",
     "static/media/fa-solid-900.woff2": "/edutrack/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/edutrackbg.jpg": "/edutrack/static/media/edutrackbg.c03c4508ec1dc27d0ba7.jpg",
     "static/media/fa-brands-400.woff2": "/edutrack/static/media/fa-brands-400.c210719e60948b211a12.woff2",
     "static/media/web2.png": "/edutrack/static/media/web2.830580dc2ba678858478.png",
     "static/media/fa-regular-400.ttf": "/edutrack/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
     "static/media/web4.png": "/edutrack/static/media/web4.55f2df843e08a5a1e362.png",
     "static/media/web3.png": "/edutrack/static/media/web3.32919729b49f900be054.png",
-    "static/media/web1.png": "/edutrack/static/media/web1.077021b51f8be8427b13.png",
     "static/media/fold-3.png": "/edutrack/static/media/fold-3.617c64932f49bd8e5082.png",
     "static/media/fold-2.webp": "/edutrack/static/media/fold-2.ed021b85391c83fd06dd.webp",
     "static/media/fold-1.png": "/edutrack/static/media/fold-1.748da237877febe7945b.png",
@@ -21,15 +21,16 @@
     "static/media/fa-regular-400.woff2": "/edutrack/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
     "static/media/fold-4.webp": "/edutrack/static/media/fold-4.021aeae9486343c18c6f.webp",
     "static/media/fold-5.webp": "/edutrack/static/media/fold-5.021aeae9486343c18c6f.webp",
+    "static/media/web1.gif": "/edutrack/static/media/web1.8af80108ce6adf43a14f.gif",
     "static/media/fa-v4compatibility.ttf": "/edutrack/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/edutrack/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/edutrack/index.html",
-    "main.e7eb92aa.css.map": "/edutrack/static/css/main.e7eb92aa.css.map",
-    "main.707fe8fe.js.map": "/edutrack/static/js/main.707fe8fe.js.map",
+    "main.7fec06c9.css.map": "/edutrack/static/css/main.7fec06c9.css.map",
+    "main.5257c15b.js.map": "/edutrack/static/js/main.5257c15b.js.map",
     "453.3e457e73.chunk.js.map": "/edutrack/static/js/453.3e457e73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7eb92aa.css",
-    "static/js/main.707fe8fe.js"
+    "static/css/main.7fec06c9.css",
+    "static/js/main.5257c15b.js"
   ]
 }
